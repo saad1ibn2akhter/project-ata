@@ -2,7 +2,7 @@
     {
       "id": 1,
       "title": "Project 1",
-      "pic": "https://example.com/pic1.jpg",
+      "pic": "bus.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut aliquet placerat ligula, sit amet fringilla dui scelerisque at.",
       "liveLink": "https://example.com/live1"
     },
